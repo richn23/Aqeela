@@ -12,7 +12,7 @@ export const AboutSection = () => {
       className="py-24 px-6 relative overflow-hidden"
       style={{ background: 'linear-gradient(to bottom, #B5C9B5 0%, #A3BDA3 100%)' }}
     >
-      <div className="max-w-6xl mx-auto">
+      <div className="max-w-6xl mx-auto relative z-10">
         <h2
           className="text-4xl md:text-5xl text-center mb-12 text-[#4A6B4A]"
           style={{ fontFamily: 'Georgia, serif' }}

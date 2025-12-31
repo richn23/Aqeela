@@ -59,7 +59,7 @@ export const TestimonialsSection = () => {
       className="py-24 px-6 relative overflow-hidden"
       style={{ background: 'linear-gradient(to bottom, #D4DDD4 0%, #C5D4C5 100%)' }}
     >
-      <div className="max-w-4xl mx-auto">
+      <div className="max-w-4xl mx-auto relative z-10">
         <h2
           className="text-4xl md:text-5xl text-center mb-16 text-[#4A6B4A]"
           style={{ fontFamily: 'Georgia, serif' }}

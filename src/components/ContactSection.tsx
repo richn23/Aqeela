@@ -43,7 +43,7 @@ export const ContactSection = () => {
       className="py-24 px-6 relative overflow-hidden"
       style={{ background: 'linear-gradient(to bottom, #A3BDA3 0%, #8FAF8F 100%)' }}
     >
-      <div className="max-w-4xl mx-auto">
+      <div className="max-w-4xl mx-auto relative z-10">
         <h2
           className="text-3xl md:text-4xl text-center mb-4 text-[#3D5A3D]"
           style={{ fontFamily: 'Georgia, serif' }}

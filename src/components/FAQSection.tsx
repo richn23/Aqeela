@@ -39,7 +39,7 @@ export const FAQSection = () => {
       className="py-24 px-6 relative overflow-hidden"
       style={{ background: 'linear-gradient(to bottom, #C5D4C5 0%, #B5C9B5 100%)' }}
     >
-      <div className="max-w-3xl mx-auto">
+      <div className="max-w-3xl mx-auto relative z-10">
         <h2
           className="text-4xl md:text-5xl text-center mb-16 text-[#3D5A3D]"
           style={{ fontFamily: 'Georgia, serif' }}

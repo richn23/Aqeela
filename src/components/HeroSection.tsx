@@ -19,7 +19,7 @@ export const HeroSection = () => {
       className="min-h-[85vh] bg-[#E5DCD0] relative overflow-hidden"
     >
       {/* Main content */}
-      <div className="max-w-7xl mx-auto px-6 pt-24 pb-16 min-h-[85vh] flex items-center">
+      <div className="max-w-7xl mx-auto px-6 pt-24 pb-16 min-h-[85vh] flex items-center relative z-10">
         <div className="grid grid-cols-1 lg:grid-cols-2 gap-12 items-center w-full">
           
           {/* Left side - Text content */}
